@@ -16,7 +16,7 @@ Follow the steps below to set up and run the project on your local machine.
    ```bash
    git clone https://github.com/your-username/deepthought.git
    
-2.Navigate to the project directory:
+2. Navigate to the project directory:
   ```bash
   cd deepthought
 
@@ -24,11 +24,11 @@ Follow the steps below to set up and run the project on your local machine.
    ```bash
    npm install
 
-4.Start the development server:
-  ```bash
-  npm run dev
+4. Start the development server:
+   ```bash
+   npm run dev
 
-5.Open your browser and go to:
+5. Open your browser and go to:
    ```bash
    http://localhost:3000
 
